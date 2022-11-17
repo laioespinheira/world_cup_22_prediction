@@ -1,0 +1,325 @@
+,home_teams,away_teams,home_goals,away_goals,year
+0,russia,saudi arabia,5,0,2018
+1,egypt,uruguay,0,1,2018
+2,morocco,ir iran,0,1,2018
+3,portugal,spain,3,3,2018
+4,france,australia,2,1,2018
+5,argentina,iceland,1,1,2018
+6,peru,denmark,0,1,2018
+7,croatia,nigeria,2,0,2018
+8,costa rica,serbia,0,1,2018
+9,germany,mexico,0,1,2018
+10,brazil,switzerland,1,1,2018
+11,sweden,korea republic,1,0,2018
+12,belgium,panama,3,0,2018
+13,tunisia,england,1,2,2018
+14,colombia,japan,1,2,2018
+15,poland,senegal,1,2,2018
+16,russia,egypt,3,1,2018
+17,portugal,morocco,1,0,2018
+18,uruguay,saudi arabia,1,0,2018
+19,ir iran,spain,0,1,2018
+20,denmark,australia,1,1,2018
+21,france,peru,1,0,2018
+22,argentina,croatia,0,3,2018
+23,brazil,costa rica,2,0,2018
+24,nigeria,iceland,2,0,2018
+25,serbia,switzerland,1,2,2018
+26,belgium,tunisia,5,2,2018
+27,korea republic,mexico,1,2,2018
+28,germany,sweden,2,1,2018
+29,england,panama,6,1,2018
+30,japan,senegal,2,2,2018
+31,poland,colombia,0,3,2018
+32,saudi arabia,egypt,2,1,2018
+33,uruguay,russia,3,0,2018
+34,ir iran,portugal,1,1,2018
+35,spain,morocco,2,2,2018
+36,denmark,france,0,0,2018
+37,australia,peru,0,2,2018
+38,nigeria,argentina,1,2,2018
+39,iceland,croatia,1,2,2018
+40,mexico,sweden,0,3,2018
+41,korea republic,germany,2,0,2018
+42,switzerland,costa rica,2,2,2018
+43,serbia,brazil,0,2,2018
+44,japan,poland,0,1,2018
+45,senegal,colombia,0,1,2018
+46,england,belgium,0,1,2018
+47,panama,tunisia,1,2,2018
+48,brazil,croatia,3,1,2014
+49,mexico,cameroon,1,0,2014
+50,spain,netherlands,1,5,2014
+51,chile,australia,3,1,2014
+52,colombia,greece,3,0,2014
+53,uruguay,costa rica,1,3,2014
+54,england,italy,1,2,2014
+55,côte d'ivoire,japan,2,1,2014
+56,switzerland,ecuador,2,1,2014
+57,france,honduras,3,0,2014
+58,argentina,bosnia-herzegovina,2,1,2014
+59,germany,portugal,4,0,2014
+60,iran,nigeria,0,0,2014
+61,ghana,united states,1,2,2014
+62,belgium,algeria,2,1,2014
+63,brazil,mexico,0,0,2014
+64,russia,korea republic,1,1,2014
+65,australia,netherlands,2,3,2014
+66,spain,chile,0,2,2014
+67,cameroon,croatia,0,4,2014
+68,colombia,côte d'ivoire,2,1,2014
+69,uruguay,england,2,1,2014
+70,japan,greece,0,0,2014
+71,italy,costa rica,0,1,2014
+72,switzerland,france,2,5,2014
+73,honduras,ecuador,1,2,2014
+74,argentina,iran,1,0,2014
+75,germany,ghana,2,2,2014
+76,nigeria,bosnia-herzegovina,1,0,2014
+77,belgium,russia,1,0,2014
+78,korea republic,algeria,2,4,2014
+79,united states,portugal,2,2,2014
+80,netherlands,chile,2,0,2014
+81,australia,spain,0,3,2014
+82,croatia,mexico,1,3,2014
+83,cameroon,brazil,1,4,2014
+84,costa rica,england,0,0,2014
+85,italy,uruguay,0,1,2014
+86,japan,colombia,1,4,2014
+87,greece,côte d'ivoire,2,1,2014
+88,nigeria,argentina,2,3,2014
+89,bosnia-herzegovina,iran,3,1,2014
+90,ecuador,france,0,0,2014
+91,honduras,switzerland,0,3,2014
+92,united states,germany,0,1,2014
+93,portugal,ghana,2,1,2014
+94,algeria,russia,1,1,2014
+95,korea republic,belgium,0,1,2014
+96,south africa,mexico,1,1,2010
+97,uruguay,france,0,0,2010
+98,korea republic,greece,2,0,2010
+99,argentina,nigeria,1,0,2010
+100,england,united states,1,1,2010
+101,algeria,slovenia,0,1,2010
+102,serbia,ghana,0,1,2010
+103,germany,australia,4,0,2010
+104,netherlands,denmark,2,0,2010
+105,japan,cameroon,1,0,2010
+106,italy,paraguay,1,1,2010
+107,new zealand,slovakia,1,1,2010
+108,côte d'ivoire,portugal,0,0,2010
+109,brazil,korea dpr,2,1,2010
+110,honduras,chile,0,1,2010
+111,spain,switzerland,0,1,2010
+112,south africa,uruguay,0,3,2010
+113,argentina,korea republic,4,1,2010
+114,greece,nigeria,2,1,2010
+115,france,mexico,0,2,2010
+116,germany,serbia,0,1,2010
+117,slovenia,united states,2,2,2010
+118,england,algeria,0,0,2010
+119,netherlands,japan,1,0,2010
+120,ghana,australia,1,1,2010
+121,cameroon,denmark,1,2,2010
+122,slovakia,paraguay,0,2,2010
+123,italy,new zealand,1,1,2010
+124,brazil,côte d'ivoire,3,1,2010
+125,portugal,korea dpr,7,0,2010
+126,chile,switzerland,1,0,2010
+127,spain,honduras,2,0,2010
+128,mexico,uruguay,0,1,2010
+129,france,south africa,1,2,2010
+130,nigeria,korea republic,2,2,2010
+131,greece,argentina,0,2,2010
+132,united states,algeria,1,0,2010
+133,slovenia,england,0,1,2010
+134,australia,serbia,2,1,2010
+135,ghana,germany,0,1,2010
+136,paraguay,new zealand,0,0,2010
+137,slovakia,italy,3,2,2010
+138,cameroon,netherlands,1,2,2010
+139,denmark,japan,1,3,2010
+140,korea dpr,côte d'ivoire,0,3,2010
+141,portugal,brazil,0,0,2010
+142,chile,spain,1,2,2010
+143,switzerland,honduras,0,0,2010
+144,germany,costa rica,4,2,2006
+145,poland,ecuador,0,2,2006
+146,england,paraguay,1,0,2006
+147,trinidad and tobago,sweden,0,0,2006
+148,argentina,côte d'ivoire,2,1,2006
+149,serbia and montenegro,netherlands,0,1,2006
+150,mexico,iran,3,1,2006
+151,angola,portugal,0,1,2006
+152,australia,japan,3,1,2006
+153,united states,czech republic,0,3,2006
+154,italy,ghana,2,0,2006
+155,korea republic,togo,2,1,2006
+156,france,switzerland,0,0,2006
+157,brazil,croatia,1,0,2006
+158,spain,ukraine,4,0,2006
+159,tunisia,saudi arabia,2,2,2006
+160,germany,poland,1,0,2006
+161,ecuador,costa rica,3,0,2006
+162,england,trinidad and tobago,2,0,2006
+163,sweden,paraguay,1,0,2006
+164,argentina,serbia and montenegro,6,0,2006
+165,netherlands,côte d'ivoire,2,1,2006
+166,mexico,angola,0,0,2006
+167,portugal,iran,2,0,2006
+168,czech republic,ghana,0,2,2006
+169,italy,united states,1,1,2006
+170,japan,croatia,0,0,2006
+171,brazil,australia,2,0,2006
+172,france,korea republic,1,1,2006
+173,togo,switzerland,0,2,2006
+174,saudi arabia,ukraine,0,4,2006
+175,spain,tunisia,3,1,2006
+176,ecuador,germany,0,3,2006
+177,costa rica,poland,1,2,2006
+178,sweden,england,2,2,2006
+179,paraguay,trinidad and tobago,2,0,2006
+180,iran,angola,1,1,2006
+181,portugal,mexico,2,1,2006
+182,côte d'ivoire,serbia and montenegro,3,2,2006
+183,netherlands,argentina,0,0,2006
+184,ghana,united states,2,1,2006
+185,czech republic,italy,0,2,2006
+186,croatia,australia,2,2,2006
+187,japan,brazil,1,4,2006
+188,ukraine,tunisia,1,0,2006
+189,saudi arabia,spain,0,1,2006
+190,togo,france,0,2,2006
+191,switzerland,korea republic,2,0,2006
+192,france,senegal,0,1,2002
+193,republic of ireland,cameroon,1,1,2002
+194,uruguay,denmark,1,2,2002
+195,germany,saudi arabia,8,0,2002
+196,argentina,nigeria,1,0,2002
+197,paraguay,south africa,2,2,2002
+198,england,sweden,1,1,2002
+199,spain,slovenia,3,1,2002
+200,croatia,mexico,0,1,2002
+201,brazil,turkey,2,1,2002
+202,italy,ecuador,2,0,2002
+203,china pr,costa rica,0,2,2002
+204,japan,belgium,2,2,2002
+205,korea republic,poland,2,0,2002
+206,russia,tunisia,2,0,2002
+207,united states,portugal,3,2,2002
+208,germany,republic of ireland,1,1,2002
+209,denmark,senegal,1,1,2002
+210,cameroon,saudi arabia,1,0,2002
+211,france,uruguay,0,0,2002
+212,sweden,nigeria,2,1,2002
+213,spain,paraguay,3,1,2002
+214,argentina,england,0,1,2002
+215,south africa,slovenia,1,0,2002
+216,italy,croatia,1,2,2002
+217,brazil,china pr,4,0,2002
+218,mexico,ecuador,2,1,2002
+219,costa rica,turkey,1,1,2002
+220,japan,russia,1,0,2002
+221,korea republic,united states,1,1,2002
+222,tunisia,belgium,1,1,2002
+223,portugal,poland,4,0,2002
+224,denmark,france,2,0,2002
+225,senegal,uruguay,3,3,2002
+226,saudi arabia,republic of ireland,0,3,2002
+227,cameroon,germany,0,2,2002
+228,sweden,argentina,1,1,2002
+229,nigeria,england,0,0,2002
+230,slovenia,paraguay,1,3,2002
+231,south africa,spain,2,3,2002
+232,costa rica,brazil,2,5,2002
+233,turkey,china pr,3,0,2002
+234,mexico,italy,1,1,2002
+235,ecuador,croatia,1,0,2002
+236,belgium,russia,3,2,2002
+237,tunisia,japan,0,2,2002
+238,poland,united states,3,1,2002
+239,portugal,korea republic,0,1,2002
+240,brazil,scotland,2,1,1998
+241,morocco,norway,2,2,1998
+242,italy,chile,2,2,1998
+243,cameroon,austria,1,1,1998
+244,paraguay,bulgaria,0,0,1998
+245,saudi arabia,denmark,0,1,1998
+246,france,south africa,3,0,1998
+247,spain,nigeria,2,3,1998
+248,korea republic,mexico,1,3,1998
+249,netherlands,belgium,0,0,1998
+250,argentina,japan,1,0,1998
+251,yugoslavia,iran,1,0,1998
+252,jamaica,croatia,1,3,1998
+253,england,tunisia,2,0,1998
+254,romania,colombia,1,0,1998
+255,germany,united states,2,0,1998
+256,scotland,norway,1,1,1998
+257,brazil,morocco,3,0,1998
+258,chile,austria,1,1,1998
+259,italy,cameroon,3,0,1998
+260,south africa,denmark,1,1,1998
+261,france,saudi arabia,4,0,1998
+262,nigeria,bulgaria,1,0,1998
+263,spain,paraguay,0,0,1998
+264,japan,croatia,0,1,1998
+265,belgium,mexico,2,2,1998
+266,netherlands,korea republic,5,0,1998
+267,germany,yugoslavia,2,2,1998
+268,argentina,jamaica,5,0,1998
+269,united states,iran,1,2,1998
+270,colombia,tunisia,1,0,1998
+271,romania,england,2,1,1998
+272,chile,cameroon,1,1,1998
+273,italy,austria,2,1,1998
+274,brazil,norway,1,2,1998
+275,scotland,morocco,0,3,1998
+276,south africa,saudi arabia,2,2,1998
+277,france,denmark,2,1,1998
+278,nigeria,paraguay,1,3,1998
+279,spain,bulgaria,6,1,1998
+280,belgium,korea republic,1,1,1998
+281,netherlands,mexico,2,2,1998
+282,germany,iran,2,0,1998
+283,united states,yugoslavia,0,1,1998
+284,argentina,croatia,1,0,1998
+285,japan,jamaica,1,2,1998
+286,colombia,england,0,2,1998
+287,romania,tunisia,1,1,1998
+288,germany,bolivia,1,0,1994
+289,spain,korea republic,2,2,1994
+290,united states,switzerland,1,1,1994
+291,italy,republic of ireland,0,1,1994
+292,colombia,romania,1,3,1994
+293,belgium,morocco,1,0,1994
+294,norway,mexico,1,0,1994
+295,cameroon,sweden,2,2,1994
+296,brazil,russia,2,0,1994
+297,netherlands,saudi arabia,2,1,1994
+298,argentina,greece,4,0,1994
+299,germany,spain,1,1,1994
+300,nigeria,bulgaria,3,0,1994
+301,romania,switzerland,1,4,1994
+302,united states,colombia,2,1,1994
+303,italy,norway,1,0,1994
+304,korea republic,bolivia,0,0,1994
+305,mexico,republic of ireland,2,1,1994
+306,brazil,cameroon,3,0,1994
+307,sweden,russia,3,1,1994
+308,saudi arabia,morocco,2,1,1994
+309,belgium,netherlands,1,0,1994
+310,argentina,nigeria,2,1,1994
+311,bulgaria,greece,4,0,1994
+312,united states,romania,0,1,1994
+313,switzerland,colombia,0,2,1994
+314,germany,korea republic,3,2,1994
+315,bolivia,spain,1,3,1994
+316,italy,mexico,1,1,1994
+317,republic of ireland,norway,0,0,1994
+318,brazil,sweden,1,1,1994
+319,russia,cameroon,6,1,1994
+320,belgium,saudi arabia,0,1,1994
+321,morocco,netherlands,1,2,1994
+322,greece,nigeria,0,2,1994
+323,argentina,bulgaria,0,2,1994
